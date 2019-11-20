@@ -1,3 +1,5 @@
+## Description
+
 Simple React Application for listing courses from existing array and option to make your custom course that is added in the array and displayed.
 
 ## Available Scripts
