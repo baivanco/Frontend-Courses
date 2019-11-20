@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700,900");
+.add-course {
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  margin-top: 20px;
+  background: #e75d1f;
+}
+.add-course h2 {
+  text-align: center;
+  color: #fff;
+  background: #273166;
+  font-family: "Montserrat", sans-serif;
+  font-size: 38px;
+  margin-bottom: 13px;
+}
+
+.add-course button {
+  background: #438f2d;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  margin-top: 3px;
+}
+.add-course button:hover {
+  background: #2e6b1d;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  margin-top: 3px;
+}
+.add-course input {
+  padding: 6px;
+  border: none;
+  font-family: "Montserrat", sans-serif;
+}
+.add-course textarea {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  font-family: "Montserrat", sans-serif;
+}
+.add-course label {
+  font-size: 16px;
+  padding: 13px;
+  border: none;
+  font-family: "Montserrat", sans-serif;
+}

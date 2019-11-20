@@ -1,0 +1,11 @@
+.MainContent {
+  margin: 2%;
+  width: 70%;
+  height: auto;
+  background-color: #fff;
+  opacity: 0.9;
+}
+
+.course-details-content {
+  display: flex;
+}

@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700");
+
+.Heading {
+  color: #e75d1f;
+  font-weight: 900;
+  background-color: #273166;
+}
+
+.Heading h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #e75d1f;
+  padding: 10px 0px;
+  margin-right: 10px;
+  font-size: 63px;
+  font-weight: 900;
+  text-align: right;
+  letter-spacing: 13px;
+  background-color: #273166;
+}

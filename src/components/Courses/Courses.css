@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700,900");
+
+.Courses {
+  width: 20%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.coursers-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.courses-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  text-align: center;
+  width: 230px;
+  margin-top: 30px;
+  color: #fff;
+  background: #273166;
+}
+.course-name-list {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  margin-top: 30px;
+}
+
+.course-name-list:hover {
+  cursor: pointer;
+  border: 2px solid #273166;
+}
