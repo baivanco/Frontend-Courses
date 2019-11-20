@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple React Application for listing courses from existing array and option to make your custom course that is added in the array and displayed.
 
 ## Available Scripts
 
